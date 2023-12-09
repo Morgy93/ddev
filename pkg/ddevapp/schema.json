@@ -285,6 +285,7 @@
       "type": "string",
       "enum": [
         "backdrop",
+        "contao",
         "craftcms",
         "django4",
         "drupal6",
